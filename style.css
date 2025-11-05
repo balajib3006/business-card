@@ -119,8 +119,9 @@ h2 {
 }
 
 .btn:hover {
-  background: #3b82f6;
-  transform: translateY(-2px);
+  background: linear-gradient(45deg, var(--primary-color, #009aaf), var(--accent-color, #f4a318));
+  color: var(--bg-primary, #0d1117);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.25);
 }
 
 .btn:hover::before {
@@ -169,8 +170,9 @@ h2 {
 }
 
 .share-btn:hover {
-  background: #3b82f6;
-  transform: translateY(-2px);
+  background: linear-gradient(45deg, var(--primary-color, #009aaf), var(--accent-color, #f4a318));
+  color: var(--bg-primary, #0d1117);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.25);
 }
 
 .qr {
@@ -200,8 +202,8 @@ h2 {
   }
 
   .profile-photo {
-    width: 120px;
-    height: 120px;
+    width: 130px;
+    height: 130px;
   }
 
   h1 {
