@@ -195,7 +195,7 @@ h2 {
   box-shadow: 0 6px 25px rgba(59, 130, 246, 0.2);
 }
 
-@media (max-width: 450px) {
+@media (max-width: 480px) {
   .card {
     padding: 1.5rem 1rem;
     gap: 0.5rem;
