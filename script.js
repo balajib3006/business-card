@@ -1,12 +1,10 @@
 const vcardData = `BEGIN:VCARD
 VERSION:3.0
 FN:Balaji B
-ORG:Rangsons Aerospace Private Limited
-TITLE:Associate Enginner
+TITLE:RF & Mixed-Signal Engineer
 TEL;TYPE=WORK,VOICE:+91 9159875082
 EMAIL;TYPE=HOME,INTERNET:balaji3006@outlook.in
-EMAIL;TYPE=WORK,INTERNET:balajib@rangsonsaerospace.com
-ADR;TYPE=WORK:;;Bengaluru;Karnataka;560027;India
+ADR;TYPE=WORK:;;Bengaluru;Karnataka;India
 URL;TYPE=LinkedIn:https://www.linkedin.com/in/balajib300602
 URL;TYPE=GitHub:https://github.com/balajib3006
 URL;TYPE=WhatsApp:https://wa.me/+919159875082
